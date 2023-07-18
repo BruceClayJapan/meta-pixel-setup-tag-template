@@ -41,4 +41,4 @@ We appreciate your interest in contributing to this GTM Meta Setup Tag Template!
 If you have any questions, feel free to contact us or reach out to our community
 for assistance.
 
-[1]: https://github.com/BruceClayJapan/gtm-meta-setup-tag-template/issues
+[1]: https://github.com/BruceClayJapan/meta-pixel-setup-tag-template/issues
